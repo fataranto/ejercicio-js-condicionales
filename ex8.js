@@ -1,6 +1,7 @@
 /**
  * Operador ! 
  * 
+ * 
  * https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Expressions_and_Operators#operadores_l%C3%B3gicos
  * 
  * 1. Modifica el valor de la variable "nombre" para que se muestre por consola el mensaje

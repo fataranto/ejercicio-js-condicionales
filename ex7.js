@@ -4,10 +4,11 @@ Operador: && https://www.w3schools.com/js/tryit.asp?filename=tryjs_comparison_an
 
 https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Expressions_and_Operators#operadores_l%C3%B3gicos
 
-1. Escribe un valor adecuado para la variable 'usuario' y/o 'password' para que se muestre por consola el mensaje.
+1. Imagina que recibimos de un formulario las credeciales de un usuario.Escribe un valor adecuado para la variable 'usuario' y/o 'password' para que se muestre por consola el mensaje.
 
 */
 
+/** Solo puedes modificar las dos siguientes líneas */
 let usuario = "pepe";
 let password = "1995";
 
