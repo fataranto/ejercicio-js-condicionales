@@ -13,9 +13,11 @@ let edad;
 console.log("Mi edad es: ", edad);
 
 // Pregunta 1: Qué valor se muestra por el terminal? Qué crees que significa?
+// Se muestra "undefined" porque la variable todavía no tiene ningún valor asignado
 
 edad = 40;
 console.log("Mi edad ahora es: ", edad);
 
 // Pregunta 2: Qué valor se muestra ahora por el terminal? 
+// Muestra 40
 
